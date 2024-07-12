@@ -68,4 +68,24 @@ This project is licensed under the MIT License.
 
 - Special thanks to the Esslingen University of Applied Sciences for providing the game server used in this project.
 
----
+### Screenshots
+Popup for Reloading or Changing Size:
+
+![Screenshot 2024-07-12 231557](https://github.com/user-attachments/assets/10d6a42a-b1ca-4224-aafb-8e51270d8567)
+
+Small Size:
+
+![Screenshot 2024-07-12 232844](https://github.com/user-attachments/assets/2a9dd6cf-6a0b-4a70-878d-e0eea70707b1)
+
+Medium Size:
+
+![Screenshot 2024-07-12 231653](https://github.com/user-attachments/assets/fc9e7518-a95b-4310-8876-09b9cb758013)
+
+Large Size:
+
+![Screenshot 2024-07-12 231726](https://github.com/user-attachments/assets/4cf0ffb3-290a-4b10-b619-4337d771067a)
+
+Iphone XS Max:
+
+![Screenshot 2024-07-12 231354](https://github.com/user-attachments/assets/93fb8a93-b664-46ea-88c8-44f41c2ff86e)
+
